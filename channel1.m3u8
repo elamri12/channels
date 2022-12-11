@@ -2,11 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=641238,AVERAGE-BANDWIDTH=581552,RESOLUTION=416x234,FRAME-RATE=25.000,CODECS="avc1.42C00D,mp4a.40.2",AUDIO="audio_0"
-http://hduj.mwun.com.global.prod.fastly.net/hls/138/index.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="franÃ§ais",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="http://hduj.mwun.com.global.prod.fastly.net/hls/138/index.m3u8"
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=641238,AVERAGE-BANDWIDTH=581552,RESOLUTION=416x234,FRAME-RATE=25.000,CODECS="avc1.42C00D,mp4a.40.2",AUDIO="audio_0"
-http://hduj.mwun.com.global.prod.fastly.net/hls/138/index.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="franÃ§ais",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="http://hduj.mwun.com.global.prod.fastly.net/hls/138/index.m3u8"
+https://seoul-4.restream.io/preview/re_6231967_ddc43145268bd442fbee_select/hls.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="franÃ§ais",LANGUAGE="nul",DEFAULT=YES,AUTOSELECT=YES,URI="https://seoul-4.restream.io/preview/re_6231967_ddc43145268bd442fbee_select/hls.m3u8"
